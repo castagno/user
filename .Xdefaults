@@ -42,12 +42,12 @@
 ! Red colours
 *.color1:        #E07070
 *.color9:        #FF8080
-! Yellow colours
-*.color2:        #E0E070
-*.color10:       #FFFF80
 ! Green colours
-*.color3:        #70E070
-*.color11:       #80FF80
+*.color2:        #70E070
+*.color10:       #80FF80
+! Yellow colours
+*.color3:        #E0E070
+*.color11:       #FFFF80
 ! Blue colours
 *.color4:        #7070E0
 *.color12:       #8080FF
@@ -180,7 +180,7 @@ URxvt.letterSpace : -2 ! Put characters slightly closer together
 URxvt.iso14755 :   false
 URxvt.iso14755_52: false
 URxvt*depth: 32
-URxvt*background:  rgba:0000/0000/0000/8800
+URxvt*background:  rgba:0000/0000/0000/BB00
 
 
 ! transparency in i3
